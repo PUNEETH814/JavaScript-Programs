@@ -18,7 +18,7 @@ const challengeToken = "u6n32jifb";*/
 function StringChallenge(sen) {
   // code goes here
   let words = sen.match(/\w+/g);
-
+  console.log(words)
   let longestWord = words[0];
 
   for (let i = 0; i < words.length; i++) {
