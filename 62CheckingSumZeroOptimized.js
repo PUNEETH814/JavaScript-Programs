@@ -1,6 +1,6 @@
 //Optimized Linear Time Complexity
 //[-5,-4,-3,-2,0,2,4,6,8] -> input (Sorted array)
-//[?,?] -> output (the pair sum should be zero)([-4,4]->Zero)
+//[?,?] -> output (the pair sum should be zero)([-4,4]->Zeroo) 
 
 function findSumPair(array) {
   let left = 0;
